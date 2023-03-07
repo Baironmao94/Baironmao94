@@ -1,16 +1,24 @@
-### Hi there 👋
+# BAIRON ARISTIZABAL OROZCO
+## El Carmen de Viboral (Colombia)
+--------
 
-<!--
-**Baironmao94/Baironmao94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cordial Saludo, mi nombre es Bairon Aristizabal, Soy profesional en **Administración de empresas** de la _Universidad de Antiquia_ y aspirante a **desarollador Full-Stack** con el _Bootcamp_ dirigido por el ~desarrollador~ Guillermo Rodas.
 
-Here are some ideas to get you started:
+## HOBBIES
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+1. Estuadiar
+2. Rodar en moto
+3. Leer
+4. Escuchar Música
+5. Compartir Café
+
+## Conocimientos de Sistema
+
+| Programa | Nivel   |
+|----------|---------|
+|Sheets    | Medio   |
+| Docs     | Medio   |
+| Slides   | Medio   |
+|Ubuntu    | Bajo    |
+|VSC       | Bajo    |
+
